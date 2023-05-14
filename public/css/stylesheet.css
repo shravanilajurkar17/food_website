@@ -8,11 +8,7 @@ html{
     scroll-behavior: smooth;
     font-size: 1rem;
     color: white;
-
-
-
 }
-
 /* Navigation Bar */
 #navbar {
     
@@ -68,8 +64,6 @@ html{
     /* opacity: .8; */
 }
 
-
- 
 #home h1{
     color:white;
     text-shadow: 4px 2px red;
@@ -251,7 +245,7 @@ html{
 }
 
 /* Utility class */
-.btn{
+/* .btn{
     border: none;
     color: white;
     padding: 15px 32px;
@@ -262,8 +256,8 @@ html{
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-}
-.btn a{
+} */
+/* .btn a{
     text-decoration: none;
      color: white;
 }
@@ -271,7 +265,7 @@ html{
    background-color: rgb(57, 1, 1);
    color: aliceblue;
    transform: scale(1.5);
-}
+} */
 .center{
     text-align: center;
 }
